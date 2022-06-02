@@ -4,7 +4,7 @@ Hi 👋 My name is Hakim BAHEDDI
 Full-Stack Developer
 --------------------
 
-I started coding in 2016, specializing in web development, and now I'm a top-rated freelancer in Upwork. I play football, and I love traveling and camping.
+I started coding in 2016, specializing in web development, and now I'm a top-rated freelancer in Upwork, and I am looking for a full-time remote job. I play football, and I love traveling and camping.
 
 * 🌍  I'm based in Algiers, Algeria.
 * ✉️  You can contact me at [contac.hakim.bhd@gmail.com](mailto:contac.hakim.bhd@gmail.com)
